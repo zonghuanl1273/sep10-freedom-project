@@ -1,7 +1,6 @@
 # Entry 1: Drawing Industry
 ##### 10/21/26
 
-Text
 ### Choosing a topic
 
 The topic I decided for this project is drawing as I've been passionate about this and loved this subject since I realized how great it was. Since I loved this subject, I didn't know how to choose between different topics and so I remember that drawing and arts is another topic that I really enjoy and have interest in. I soon started researching this topic for my project, and one of the sources was interesting. ["Drawing as a powerful learning tool"](https://www.edutopia.org/article/drawing-tool-learning/) by Selim Tlili. Seeing the source of the websites article brought me passionate reasons on how technology changed drawing throughout the industry and continue loving this topic of this subject.
@@ -28,5 +27,4 @@ I am looking forward to the interesting things of the drawing industry it has to
 
 [Next](entry02.md)
 
-[Home](../README.md)
 [Home](../README.md)
