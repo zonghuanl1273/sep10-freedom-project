@@ -1,4 +1,4 @@
-# Entry 1: Drawing Industry
+# Entry 1: Drawing
 ##### 10/21/26
 
 ### Choosing a topic
