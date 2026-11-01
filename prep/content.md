@@ -10,7 +10,8 @@ Topic: **Drawing**
 ##### Software
 * Computer
   * The computer consists of many different things in it use of digital life, but although it seems very decent, there is more towards existing technologies like this that are even better that functions faster and quicker in websites and overall projects to do and work it in.
-    <img src="computer(1).jpeg">[Computer]
+    <img src="<img width="678" height="452" alt="computer(1)" src="https://github.com/user-attachments/assets/33a24542-72ae-435b-808a-e023167243d2" />
+">[Computer](computer(1).jpeg)
 
 ##### Hardware
 * Phone
