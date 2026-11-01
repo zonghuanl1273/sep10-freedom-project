@@ -16,6 +16,7 @@ Topic: **Drawing**
 ##### Hardware
 * Phone
   * The phone consist in many different benefit within the existing technologies as you can bring it to different places and also in calling and tracking on locations or going to them, it use can help a lot of people within the real life and also in drawing or any in use of creativity.
+  * 
  <img width="600" height="438" alt="Phone3" src="https://github.com/user-attachments/assets/b77f8676-93e3-42ca-8aef-4fc4bbe8be21" />
 
 
