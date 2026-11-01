@@ -15,7 +15,7 @@ Topic: **Drawing**
 ##### Hardware
 * Phone
   * The phone consist in many different benefit within the existing technologies as you can bring it to different places and also in calling and tracking on locations or going to them, it use can help a lot of people within the real life and also in drawing or any in use of creativity.
-  * ![Phone](Phone.webp)
+  * ![Phone](phone.webp)
 
 ## Part B: possible future technology
 * Fast developing printing material machines
