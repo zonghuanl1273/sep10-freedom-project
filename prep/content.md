@@ -8,15 +8,22 @@ Topic: **Drawing**
 ## Part A: existing technology
 
 ##### Software
-* Computer
-  * The computer consists of many different things in it use of digital life, but although it seems very decent, there is more towards existing technologies like this that are even better that functions faster and quicker in websites and overall projects to do and work it in.
-  * 
-    <img width="678" height="452" alt="computer(1)" src="https://github.com/user-attachments/assets/33a24542-72ae-435b-808a-e023167243d2" />
+* ibispaint
+  * The app consists in many uses for artists to benefit from their drawing and in digital technology, this helps them have more features and lets them have the way to do more use in digital rather traditional.
+  * A handful of people use this app as it helps many artists through reference and its main skill digitally and use it in the real world with its ideas and inspiration.
+  * In it app, a lot of taken of consideration that it very good than most of the apps shown on software and so this is a very low budget with ads that helps people have their own custom style drawing and more.
+  * It uses many peoples artists to draw many artists attention for how good it use for within digital art world.
+  
+    <img width="265" height="236" alt="Screenshot 2026-11-02 10 29 59 AM" src="https://github.com/user-attachments/assets/1c47a962-ad5c-4431-a25b-f34a81222ef5" />
+
 
 ##### Hardware
 * Phone
-  * The phone consist in many different benefit within the existing technologies as you can bring it to different places and also in calling and tracking on locations or going to them, it use can help a lot of people within the real life and also in drawing or any in use of creativity.
-  * 
+  * The phone consists in many different benefits within the existing technologies as you can bring it to different places and also in calling and tracking on locations or going to them
+  * It can help a lot of people within real life and also in drawing or any in use of creativity.
+  * It also connects to different devices within the cellular device of other technologies like airpods or even computers.
+ * It only uses a little hardware within it data of the phone so any repairs wont be expensive rather then bigger versions of technologies like computers.
+
  <img width="600" height="438" alt="Phone3" src="https://github.com/user-attachments/assets/b77f8676-93e3-42ca-8aef-4fc4bbe8be21" />
 
 
