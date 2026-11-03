@@ -22,7 +22,7 @@ Topic: **Drawing**
   * The phone consists in many different benefits within the existing technologies as you can bring it to different places and also in calling and tracking on locations or going to them
   * It can help a lot of people within real life and also in drawing or any in use of creativity.
   * It also connects to different devices within the cellular device of other technologies like airpods or even computers.
- * It only uses a little hardware within it data of the phone so any repairs wont be expensive rather then bigger versions of technologies like computers.
+  * It only uses a little hardware within it data of the phone so any repairs wont be expensive rather then bigger versions of technologies like computers.
 
  <img width="600" height="438" alt="Phone3" src="https://github.com/user-attachments/assets/b77f8676-93e3-42ca-8aef-4fc4bbe8be21" />
 
