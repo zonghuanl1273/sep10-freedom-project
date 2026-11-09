@@ -16,7 +16,7 @@ Topic: **Drawing**
   
     <img width="265" height="236" alt="Screenshot 2026-11-02 10 29 59 AM" src="https://github.com/user-attachments/assets/1c47a962-ad5c-4431-a25b-f34a81222ef5" />
 
-   * Things that are categorizing:
+  * Things that are categorizing:
   - Free to Not Free
 
 ##### Hardware
