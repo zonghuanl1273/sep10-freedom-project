@@ -16,7 +16,6 @@ Topic: **Drawing**
   
     <img width="265" height="236" alt="Screenshot 2026-11-02 10 29 59 AM" src="https://github.com/user-attachments/assets/1c47a962-ad5c-4431-a25b-f34a81222ef5" />
 
-
 ##### Hardware
 * Phone
   * The phone consists in many different benefits within the existing technologies as you can bring it to different places and also in calling and tracking on locations or going to them
@@ -27,6 +26,10 @@ Topic: **Drawing**
 
  <img width="600" height="438" alt="Phone3" src="https://github.com/user-attachments/assets/b77f8676-93e3-42ca-8aef-4fc4bbe8be21" />
 
+* There are many things in categorizing them by.
+  
+  - Expensive phone - Cheapest phone
+  - Memories it can store
 
 ## Part B: possible future technology
 * Fast developing printing material machines
