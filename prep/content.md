@@ -52,21 +52,21 @@ Topic: **Drawing**
  <img width="600" height="438" alt="Phone3" src="https://github.com/user-attachments/assets/b77f8676-93e3-42ca-8aef-4fc4bbe8be21" />
 
  * Computer
-  * Holds many Memories/data.
-  * Loads fast.
-  * Big screen.
-  * Computer feature stuff.
-  * Longer battery.
-  * Adjustable settings.
-  * Downloads faster.
-  * Many setup parts.
-  * Stands straight.
-  * Protective sides.
-  * Connectable to any device.
-  * The cost is decently expensive.
-  * Charges fast.
-  * Website that requires computers being accessible.
-  * More emission lights to see.
+   * Holds many Memories/data.
+   * Loads fast.
+   * Big screen.
+   * Computer feature stuff.
+   * Longer battery.
+   * Adjustable settings.
+   * Downloads faster.
+   * Many setup parts.
+   * Stands straight.
+   * Protective sides.
+   * Connectable to any device.
+   * The cost is decently expensive.
+   * Charges fast.
+   * Website that requires computers being accessible.
+   * More emission lights to see.
 
 * Things that are categorizing:
   
