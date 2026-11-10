@@ -50,9 +50,13 @@ Topic: **Drawing**
 
  <img width="600" height="438" alt="Phone3" src="https://github.com/user-attachments/assets/b77f8676-93e3-42ca-8aef-4fc4bbe8be21" />
 
+ *Computer
+  *Holds many Memories.
+  *
+
 * Things that are categorizing:
   
-  - Expensive phone - Cheapest phone
+  - Expensive - Cheapest
   - Memories it can store
 
 ## Part B: possible future technology
