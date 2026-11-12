@@ -9,6 +9,7 @@ Topic: **Drawing**
 
 ##### Software
 * ibispaint
+* Least Help Information
   * The app consists in many uses for artists to benefit from their drawing and in digital technology
   * This helps them have more features and lets them have a way to do more use in digital rather than traditional.
   * A handful of people use this app as it helps many artists through reference
@@ -16,6 +17,7 @@ Topic: **Drawing**
   * Very good than most of the apps shown on software of drawing digitally
   * Less advertisement videos
   * Publicly show your art.
+* Helpful Information
   * Doesn't cost money
   * Supports any technology
   * Less GB/MB used
@@ -33,6 +35,7 @@ Topic: **Drawing**
 
 ##### Hardware
 * Phone
+* Benefital
   * The phone consists in many different benefits within the existing technologies as you can bring it to different places
   * It can help a lot of people within real life and also in drawing or any in use of creativity.
   * It also connects to different devices within the cellular device of other technologies like airpods or even computers.
@@ -41,6 +44,7 @@ Topic: **Drawing**
   * More durable & protection.
   * Not heavy to carry around or ship to.
   * Accessible in calling across countries.
+ *  Non-Benefital
   * Tracking on locations or going to them.
   * Doesn't require any setups to make it work.
   * Taking pictures faster.
@@ -52,6 +56,7 @@ Topic: **Drawing**
  <img width="600" height="438" alt="Phone3" src="https://github.com/user-attachments/assets/b77f8676-93e3-42ca-8aef-4fc4bbe8be21" />
 
  * Computer
+ * Important Things
    * Holds many Memories/data.
    * Loads fast.
    * Big screen.
@@ -59,6 +64,7 @@ Topic: **Drawing**
    * Longer battery.
    * Adjustable settings.
    * Downloads faster.
+ *  Less Important Things
    * Many setup parts.
    * Stands straight.
    * Protective sides.
