@@ -65,14 +65,14 @@ Topic: **Drawing**
    * Adjustable settings.
    * Downloads faster.
  *  Less Important Things
-   * Many setup parts.
-   * Stands straight.
-   * Protective sides.
-   * Connectable to any device.
-   * The cost is decently expensive.
-   * Charges fast.
-   * Website that requires computers being accessible.
-   * More emission lights to see.
+    * Many setup parts.
+    * Stands straight.
+    * Protective sides.
+    * Connectable to any device.
+    * The cost is decently expensive.
+    * Charges fast.
+    * Website that requires computers being accessible.
+    * More emission lights to see.
 
 <img width="2000" height="1125" alt="NxiwdmB8wvXu7GjyTrW6Wi" src="https://github.com/user-attachments/assets/e43f4e8b-4c20-4e7f-80c6-03d086228255" />
 
