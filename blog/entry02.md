@@ -5,7 +5,7 @@
 
 This topic I decided to put on video production as I'm decently passionate about this and how much it helps when it comes to videos or movies. It also was a option I chose for my second one as it was very interesting see things being produced or behind their scenes and to the world outside of society, so I chose this for as apart of the project. I soon started looking through researching for sources like, ["Video Production Nyc"](https://www.johnnypuetz.com/) by John, which shows some quite interesting over how the video production industry affects content within media and other things espcially another source being of.["Video Production Guide"](https://advertising.amazon.com/library/guides/video-production) by Amazon in showing how it benefits and which brings my attention to put this at my second for the project.
 
-**## Engineering Design processings
+## Engineering Design processings
 
 I am currently on not early stage and beginning of the software engineering design process for EDP, in other words Engineering Design Processing where we solve different issues with elements in the code of html for websites, but the problems is, I want to make it understanding for the video production and it benefit and affects for it through designed websites.
 
