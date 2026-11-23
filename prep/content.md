@@ -83,11 +83,11 @@ Topic: **Drawing**
   - Memories it can store
 
 ## Part B: possible future technology
-* Fast developing printing material machines
-  * It can print materials within the machine in helping people with getting materials that they are required to have or in needing for their builds or certain creative use.
+* Fast developing Printing Material Machines
+  * It can print materials within seconds of the machine in helping people with getting materials that they are required to have or in need for their builds or certain creative use.
 * Hologram Maps
   * It can show a 3D of a map hologram in the place you're located and you can change its size and drag it with you to find destinations or places.
- * Robotic Scanning people
+ * Robotic Scanning People
    * It is able to scan your condition and cure it but also in your mood and have the exact feelings to comfort you.
- * Multi Controller
-   * It is able to have many buttons to use in playing games and can be stretched very long. 
+ * Multi Flying Controller
+   * It is able to have many buttons to use in playing games but also stretched very long and can float with a table handle to rest your hand on.
